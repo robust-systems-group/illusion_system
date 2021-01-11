@@ -1,0 +1,29 @@
+LSTM Language Modeling
+
+This LSTM implements a combination of two LSTMs, their layers are identical as
+ described in the following-
+I) LSTM 1
+   1. embed - Maps input word vector represenation of the word
+   2. act1 - Computes activation matrix
+   3. conv1 - Emulates the inner-product operations implemented by LSTMs
+   4. proj1 - Maps the hidden state to output of LSTM 1 
+II) LSTM 2
+   1. act2 - Same as act1
+   2. conv2 - Same as conv1
+   3. output - Same as proj1
+Comments-
+1. Given the large vocabulary size for language modeling, the embed layer is
+   essentially mapping each input word to an index.
+2. Followed by reading the vector corresponding to the index from memory.
+3. This is implmented as a fully connected layer of size (1, VOCAB_SIZE) with
+   batch size N. It overestimates the no. of writes which is conservative.
+4. conv1 layer maps 3 inner product operations and one element-wise addition 
+   (along with applying tanh non-linearity, computationally negligible).
+5. Output size for each of these calculations is NxH, where N is the batch size
+   and H is the size of hidden dimension.
+6. Our implementation of the conv1 layer tries to match these operations with a 
+   fully-connected layer of dimensions (1, 4xNxH) with batch size 1.
+7. Hence implementing the required number of MAC ops and write-backs. However it
+   underestimates the no. of reads to half its actual value, another conservati-
+   ve estimate. conv2 has the same estimation. 
+8. These drawbacks need to be modeled correctly in future efforts.

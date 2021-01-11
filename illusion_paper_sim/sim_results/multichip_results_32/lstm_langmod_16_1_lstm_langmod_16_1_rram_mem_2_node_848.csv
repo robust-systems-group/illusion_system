@@ -1,0 +1,16 @@
+lstm_langmod_16_1_rram_mem_2_node_848
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+act_1_part_74_o, 2.4576e-05,5.562e-06,3.0138e-05,9.56301312e-05,0.00037044092928,9.5546621952e-05,1.06089088073502e-05,1.78944000000161e-05,87375,0,0.000590120991239366
+proj_1_part_74_i, 7.68e-07,6.68e-07,1.436e-06,2.9884416e-06,1.157627904e-05,4.552556544e-06,1.47785984043319e-06,1.24497920000095e-06,6079,0,2.18401162244341e-05
+Total,2.5344e-05,6.23e-06,3.1574e-05,9.86185728e-05,0.00038201720832,0.000100099178496,1.20867686477834e-05,1.91393792000171e-05,93454,0,0.0006119611074638
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+lstm_langmod_16_1_rram_mem_2_node_848, 80.2685754101476,19.7314245898524,100,78.5402495776141,16.3571144105626,5.10263601182328,100,1,1,1,0.0006119611074638
+lstm_langmod_16_1_rram_mem_2_node_848
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+act_1_part_74_o, 2.4576e-05,5.562e-06,3.0138e-05,9.56301312e-05,0.00037044092928,9.5546621952e-05,1.06089088073502e-05,1.78944000000161e-05,87375,0,0.000590120991239366
+proj_1_part_74_i, 7.68e-07,6.68e-07,1.436e-06,2.9884416e-06,1.157627904e-05,4.552556544e-06,1.47785984043319e-06,1.24497920000095e-06,6079,0,2.18401162244341e-05
+Total,2.5344e-05,6.23e-06,3.1574e-05,9.86185728e-05,0.00038201720832,0.000100099178496,1.20867686477834e-05,1.91393792000171e-05,93454,0,0.0006119611074638
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+lstm_langmod_16_1_rram_mem_2_node_848, 80.2685754101476,19.7314245898524,100,78.5402495776141,16.3571144105626,5.10263601182328,100,1,1,1,0.0006119611074638

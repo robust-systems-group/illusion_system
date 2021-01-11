@@ -1,0 +1,14 @@
+alex_net_16_1_rram_mem_0.25_node_7
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+conv3_part_2_o, 1.638e-05,4.474e-06,2.0854e-05,6.3737856e-05,0.0002469003264,6.6113519616e-05,1.83345792052147e-05,2.96949760000114e-05,144995,0,0.000424781257221226
+Total,1.638e-05,4.474e-06,2.0854e-05,6.3737856e-05,0.0002469003264,6.6113519616e-05,1.83345792052147e-05,2.96949760000114e-05,144995,0,0.000424781257221226
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+alex_net_16_1_rram_mem_0.25_node_7, 78.5460822863719,21.4539177136281,100,73.1289757067176,15.5641329489187,11.3068913443637,100,1,1,1,0.000424781257221226
+alex_net_16_1_rram_mem_0.25_node_7
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+conv3_part_2_o, 1.638e-05,4.474e-06,2.0854e-05,6.3737856e-05,0.0002469003264,6.6113519616e-05,1.83345792052147e-05,2.96949760000114e-05,144995,0,0.000424781257221226
+Total,1.638e-05,4.474e-06,2.0854e-05,6.3737856e-05,0.0002469003264,6.6113519616e-05,1.83345792052147e-05,2.96949760000114e-05,144995,0,0.000424781257221226
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+alex_net_16_1_rram_mem_0.25_node_7, 78.5460822863719,21.4539177136281,100,73.1289757067176,15.5641329489187,11.3068913443637,100,1,1,1,0.000424781257221226

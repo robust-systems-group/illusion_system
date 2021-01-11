@@ -1,0 +1,16 @@
+resnet50_16_1_rram_mem_0.5_node_22
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+conv4_4_c_part_2_o, 1.3312e-05,1.874e-06,1.5186e-05,5.17996544e-05,0.00020065550336,4.8144236544e-05,1.37369830435125e-05,2.23975424000077e-05,109363,0,0.00033673391974752
+conv4_5_a_part_1_i, 2.0224e-05,2.873e-06,2.3097e-05,7.86956288e-05,0.00030484201472,7.3224511488e-05,2.11995264053469e-05,3.51434752000117e-05,171599,0,0.000513105156613359
+Total,3.3536e-05,4.747e-06,3.8283e-05,0.0001304952832,0.00050549751808,0.000121368748032,3.49365094488594e-05,5.75410176000194e-05,280962,0,0.000849839076360879
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+resnet50_16_1_rram_mem_0.5_node_22, 87.6002403155448,12.3997596844552,100,74.8368507604291,14.2813800174636,10.8817692221073,100,1,1,1,0.000849839076360879
+resnet50_16_1_rram_mem_0.5_node_22
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+conv4_4_c_part_2_o, 1.3312e-05,1.874e-06,1.5186e-05,5.17996544e-05,0.00020065550336,4.8144236544e-05,1.37369830435125e-05,2.23975424000077e-05,109363,0,0.00033673391974752
+conv4_5_a_part_1_i, 2.0224e-05,2.873e-06,2.3097e-05,7.86956288e-05,0.00030484201472,7.3224511488e-05,2.11995264053469e-05,3.51434752000117e-05,171599,0,0.000513105156613359
+Total,3.3536e-05,4.747e-06,3.8283e-05,0.0001304952832,0.00050549751808,0.000121368748032,3.49365094488594e-05,5.75410176000194e-05,280962,0,0.000849839076360879
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+resnet50_16_1_rram_mem_0.5_node_22, 87.6002403155448,12.3997596844552,100,74.8368507604291,14.2813800174636,10.8817692221073,100,1,1,1,0.000849839076360879

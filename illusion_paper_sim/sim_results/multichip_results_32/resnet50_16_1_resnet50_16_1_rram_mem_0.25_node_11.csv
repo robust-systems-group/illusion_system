@@ -1,0 +1,16 @@
+resnet50_16_1_rram_mem_0.25_node_11
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+conv4_1_a_part_2_i, 1.1008e-05,4.054e-06,1.5062e-05,4.28343296e-05,0.00016592666624,4.7751118848e-05,1.41540096039358e-05,2.17606144000086e-05,106253,0,0.000292426738691944
+conv4_1_b_part_1_o, 8.64e-06,6.158e-06,1.4798e-05,3.3619968e-05,0.0001302331392,4.6914158592e-05,8.51147008431459e-06,1.27866880000094e-05,62435,0,0.000232065423876324
+Total,1.9648e-05,1.0212e-05,2.986e-05,7.64542976e-05,0.00029615980544,9.466527744e-05,2.26654796882504e-05,3.4547302400018e-05,168688,0,0.000524492162568268
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+resnet50_16_1_rram_mem_0.25_node_11, 65.8004018754186,34.1995981245814,100,71.0428352666757,18.0489403266685,10.9082244066557,100,1,1,1,0.000524492162568268
+resnet50_16_1_rram_mem_0.25_node_11
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+conv4_1_a_part_2_i, 1.1008e-05,4.054e-06,1.5062e-05,4.28343296e-05,0.00016592666624,4.7751118848e-05,1.41540096039358e-05,2.17606144000086e-05,106253,0,0.000292426738691944
+conv4_1_b_part_1_o, 8.64e-06,6.158e-06,1.4798e-05,3.3619968e-05,0.0001302331392,4.6914158592e-05,8.51147008431459e-06,1.27866880000094e-05,62435,0,0.000232065423876324
+Total,1.9648e-05,1.0212e-05,2.986e-05,7.64542976e-05,0.00029615980544,9.466527744e-05,2.26654796882504e-05,3.4547302400018e-05,168688,0,0.000524492162568268
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+resnet50_16_1_rram_mem_0.25_node_11, 65.8004018754186,34.1995981245814,100,71.0428352666757,18.0489403266685,10.9082244066557,100,1,1,1,0.000524492162568268

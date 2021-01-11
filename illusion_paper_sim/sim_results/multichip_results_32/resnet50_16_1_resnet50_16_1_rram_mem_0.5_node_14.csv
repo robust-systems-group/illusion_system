@@ -1,0 +1,16 @@
+resnet50_16_1_rram_mem_0.5_node_14
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+conv4_3_a_part_2_i, 2.816e-05,3.959e-06,3.2119e-05,0.000109576192,0.0004244635648,0.000101826994176,2.9151685127428e-05,4.86037504000162e-05,237323,0,0.000713622186503444
+conv4_3_b_part_1_o, 5.76e-06,4.452e-06,1.0212e-05,2.2413312e-05,8.68220928e-05,3.2375144448e-05,7.94917120301914e-06,1.18364160000066e-05,57795,0,0.000161396136451026
+Total,3.392e-05,8.411e-06,4.2331e-05,0.000131989504,0.0005112856576,0.000134202138624,3.71008563304471e-05,6.04401664000228e-05,295118,0,0.00087501832295447
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+resnet50_16_1_rram_mem_0.5_node_14, 80.1304008882379,19.8695991117621,100,73.5156218704087,15.3370661051841,11.1473120244072,100,1,1,1,0.00087501832295447
+resnet50_16_1_rram_mem_0.5_node_14
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+conv4_3_a_part_2_i, 2.816e-05,3.959e-06,3.2119e-05,0.000109576192,0.0004244635648,0.000101826994176,2.9151685127428e-05,4.86037504000162e-05,237323,0,0.000713622186503444
+conv4_3_b_part_1_o, 5.76e-06,4.452e-06,1.0212e-05,2.2413312e-05,8.68220928e-05,3.2375144448e-05,7.94917120301914e-06,1.18364160000066e-05,57795,0,0.000161396136451026
+Total,3.392e-05,8.411e-06,4.2331e-05,0.000131989504,0.0005112856576,0.000134202138624,3.71008563304471e-05,6.04401664000228e-05,295118,0,0.00087501832295447
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+resnet50_16_1_rram_mem_0.5_node_14, 80.1304008882379,19.8695991117621,100,73.5156218704087,15.3370661051841,11.1473120244072,100,1,1,1,0.00087501832295447

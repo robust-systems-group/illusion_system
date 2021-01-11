@@ -1,0 +1,16 @@
+resnet50_16_1_rram_mem_0.25_node_50
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+conv4_5_b_part_6_o, 1.152e-05,5.156e-06,1.6676e-05,4.4826624e-05,0.0001736441856,5.2867989504e-05,1.1872811524495e-05,1.84784896000098e-05,90227,0,0.000301690100228505
+conv4_5_c_part_1_o, 8.192e-06,1.182e-06,9.374e-06,3.18767104e-05,0.00012348030976,2.9718429696e-05,8.54432000217336e-06,1.39384832000048e-05,68059,0,0.000207558253058178
+Total,1.9712e-05,6.338e-06,2.605e-05,7.67033344e-05,0.00029712449536,8.25864192e-05,2.04171315266684e-05,3.24169728000146e-05,158286,0,0.000509248353286683
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+resnet50_16_1_rram_mem_0.25_node_50, 75.6698656429942,24.3301343570058,100,73.4077640796125,16.2173168881133,10.3749190322742,100,1,1,1,0.000509248353286683
+resnet50_16_1_rram_mem_0.25_node_50
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+conv4_5_b_part_6_o, 1.152e-05,5.156e-06,1.6676e-05,4.4826624e-05,0.0001736441856,5.2867989504e-05,1.1872811524495e-05,1.84784896000098e-05,90227,0,0.000301690100228505
+conv4_5_c_part_1_o, 8.192e-06,1.182e-06,9.374e-06,3.18767104e-05,0.00012348030976,2.9718429696e-05,8.54432000217336e-06,1.39384832000048e-05,68059,0,0.000207558253058178
+Total,1.9712e-05,6.338e-06,2.605e-05,7.67033344e-05,0.00029712449536,8.25864192e-05,2.04171315266684e-05,3.24169728000146e-05,158286,0,0.000509248353286683
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+resnet50_16_1_rram_mem_0.25_node_50, 75.6698656429942,24.3301343570058,100,73.4077640796125,16.2173168881133,10.3749190322742,100,1,1,1,0.000509248353286683

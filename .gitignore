@@ -1,0 +1,11 @@
+test_simulator/run/simv*
+test_simulator/run/simv.daidir/
+test_simulator/run/simv.daidir/
+test_simulator/run/DVEfiles/
+test_simulator/run/log/
+test_simulator/run/mem_log/
+test_simulator/run/csrc/
+test_simulator/run/mvdir/
+test_simulator/run/mvsim_native_reports/
+test_simulator/run/nvm*csv
+test_simulator/run/memory*csv

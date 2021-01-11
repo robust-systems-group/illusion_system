@@ -1,0 +1,14 @@
+lstm_langmod_1_16_1_rram_mem_2_node_2_dummy
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+conv_part_2, 7.03125e-09,6.9484375e-08,7.6515625e-08,2.736e-08,1.05984e-07,2.42577792e-07,7.07609600300597e-08,3.58400000000657e-08,175,0,4.82522752030125e-07
+Total,7.03125e-09,6.9484375e-08,7.6515625e-08,2.736e-08,1.05984e-07,2.42577792e-07,7.07609600300597e-08,3.58400000000657e-08,175,0,4.82522752030125e-07
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+lstm_langmod_1_16_1_rram_mem_2_node_2_dummy, 9.18929957116602,90.810700428834,100,27.6347590738426,50.2728194638281,22.0924214623293,100,1,1,1,4.82522752030125e-07
+lstm_langmod_1_16_1_rram_mem_2_node_2_dummy
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+conv_part_2, 7.03125e-09,6.9484375e-08,7.6515625e-08,2.736e-08,1.05984e-07,2.42577792e-07,7.07609600300597e-08,3.58400000000657e-08,175,0,4.82522752030125e-07
+Total,7.03125e-09,6.9484375e-08,7.6515625e-08,2.736e-08,1.05984e-07,2.42577792e-07,7.07609600300597e-08,3.58400000000657e-08,175,0,4.82522752030125e-07
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+lstm_langmod_1_16_1_rram_mem_2_node_2_dummy, 9.18929957116602,90.810700428834,100,27.6347590738426,50.2728194638281,22.0924214623293,100,1,1,1,4.82522752030125e-07

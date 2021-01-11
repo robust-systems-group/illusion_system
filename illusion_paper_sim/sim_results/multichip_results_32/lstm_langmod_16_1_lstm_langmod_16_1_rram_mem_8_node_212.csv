@@ -1,0 +1,16 @@
+lstm_langmod_16_1_rram_mem_8_node_212
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+act_1_part_19_o, 6.144e-05,5.884e-06,6.7324e-05,0.000239075328,0.0009261023232,0.000213437546496,2.88414745750727e-05,4.84587520000329e-05,236615,0,0.00145591542427111
+proj_1_part_19_i, 5.376e-06,9.88e-07,6.364e-06,2.09190912e-05,8.103395328e-05,2.0175814656e-05,4.77079808151369e-06,6.88762880000331e-06,33631,0,0.000133787286017517
+Total,6.6816e-05,6.872e-06,7.3688e-05,0.0002599944192,0.00100713627648,0.000233613361152,3.36122726565864e-05,5.53463808000362e-05,270246,0,0.00158970271028862
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+lstm_langmod_16_1_rram_mem_8_node_212, 90.6741938985995,9.3258061014005,100,79.7086579446004,14.6954118930568,5.59593016234284,100,1,1,1,0.00158970271028862
+lstm_langmod_16_1_rram_mem_8_node_212
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+act_1_part_19_o, 6.144e-05,5.884e-06,6.7324e-05,0.000239075328,0.0009261023232,0.000213437546496,2.88414745750727e-05,4.84587520000329e-05,236615,0,0.00145591542427111
+proj_1_part_19_i, 5.376e-06,9.88e-07,6.364e-06,2.09190912e-05,8.103395328e-05,2.0175814656e-05,4.77079808151369e-06,6.88762880000331e-06,33631,0,0.000133787286017517
+Total,6.6816e-05,6.872e-06,7.3688e-05,0.0002599944192,0.00100713627648,0.000233613361152,3.36122726565864e-05,5.53463808000362e-05,270246,0,0.00158970271028862
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+lstm_langmod_16_1_rram_mem_8_node_212, 90.6741938985995,9.3258061014005,100,79.7086579446004,14.6954118930568,5.59593016234284,100,1,1,1,0.00158970271028862

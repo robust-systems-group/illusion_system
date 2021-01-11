@@ -1,0 +1,16 @@
+lstm_langmod_1_16_1_rram_mem_0.5_node_293
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+act_2_part_293_o, 8.192e-06,7.474e-06,1.5666e-05,3.18767104e-05,0.00012348030976,4.9665982464e-05,7.89735680476425e-06,3.35872000001041e-06,16400,0,0.000216279079428775
+output_part_293_i, 3.2e-08,1.64e-07,1.96e-07,1.245184e-07,4.8234496e-07,6.21379584e-07,2.6528000007412e-07,3.14368000000162e-07,1535,0,1.80789094407428e-06
+Total,8.224e-06,7.638e-06,1.5862e-05,3.20012288e-05,0.00012396265472,5.0287362048e-05,8.16263680483837e-06,3.67308800001057e-06,17935,0,0.000218086970372849
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+lstm_langmod_1_16_1_rram_mem_0.5_node_293, 51.8471819442693,48.1528180557307,100,71.5145353495254,23.058398198676,5.42706645179865,100,1,1,1,0.000218086970372849
+lstm_langmod_1_16_1_rram_mem_0.5_node_293
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+act_2_part_293_o, 8.192e-06,7.474e-06,1.5666e-05,3.18767104e-05,0.00012348030976,4.9665982464e-05,7.89735680476425e-06,3.35872000001041e-06,16400,0,0.000216279079428775
+output_part_293_i, 3.2e-08,1.64e-07,1.96e-07,1.245184e-07,4.8234496e-07,6.21379584e-07,2.6528000007412e-07,3.14368000000162e-07,1535,0,1.80789094407428e-06
+Total,8.224e-06,7.638e-06,1.5862e-05,3.20012288e-05,0.00012396265472,5.0287362048e-05,8.16263680483837e-06,3.67308800001057e-06,17935,0,0.000218086970372849
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+lstm_langmod_1_16_1_rram_mem_0.5_node_293, 51.8471819442693,48.1528180557307,100,71.5145353495254,23.058398198676,5.42706645179865,100,1,1,1,0.000218086970372849

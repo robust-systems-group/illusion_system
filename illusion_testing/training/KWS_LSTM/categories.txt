@@ -1,0 +1,11 @@
+down
+go
+left
+no
+off
+on
+right
+stop
+up
+yes
+unknown

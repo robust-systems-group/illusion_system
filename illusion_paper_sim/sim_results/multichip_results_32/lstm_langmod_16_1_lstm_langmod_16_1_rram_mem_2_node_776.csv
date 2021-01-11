@@ -1,0 +1,16 @@
+lstm_langmod_16_1_rram_mem_2_node_776
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+act_1_part_2_o, 3.072e-05,3.068e-06,3.3788e-05,0.000119537664,0.0004630511616,0.000107118231552,1.51138944075882e-05,2.54556160000166e-05,124295,0,0.000730276567559605
+proj_1_part_2_i, 2.048e-06,7.32e-07,2.78e-06,7.9691776e-06,3.087007744e-05,8.81344512e-06,2.30549760072308e-06,2.64089600000158e-06,12895,0,5.25990937607247e-05
+Total,3.2768e-05,3.8e-06,3.6568e-05,0.0001275068416,0.00049392123904,0.000115931676672,1.74193920083113e-05,2.80965120000182e-05,137190,0,0.000782875661320329
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+lstm_langmod_16_1_rram_mem_2_node_776, 89.6084007875738,10.3915992124262,100,79.3776216764683,14.808440522532,5.81393780099976,100,1,1,1,0.000782875661320329
+lstm_langmod_16_1_rram_mem_2_node_776
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+act_1_part_2_o, 3.072e-05,3.068e-06,3.3788e-05,0.000119537664,0.0004630511616,0.000107118231552,1.51138944075882e-05,2.54556160000166e-05,124295,0,0.000730276567559605
+proj_1_part_2_i, 2.048e-06,7.32e-07,2.78e-06,7.9691776e-06,3.087007744e-05,8.81344512e-06,2.30549760072308e-06,2.64089600000158e-06,12895,0,5.25990937607247e-05
+Total,3.2768e-05,3.8e-06,3.6568e-05,0.0001275068416,0.00049392123904,0.000115931676672,1.74193920083113e-05,2.80965120000182e-05,137190,0,0.000782875661320329
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+lstm_langmod_16_1_rram_mem_2_node_776, 89.6084007875738,10.3915992124262,100,79.3776216764683,14.808440522532,5.81393780099976,100,1,1,1,0.000782875661320329

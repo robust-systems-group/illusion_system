@@ -1,0 +1,16 @@
+resnet50_16_1_rram_mem_0.25_node_54
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+conv4_6_a_part_3_i, 8.704e-06,1.504e-06,1.0208e-05,3.38690048e-05,0.00013119782912,3.2362463232e-05,9.67829760241136e-06,1.54761216000053e-05,75567,0,0.000222583716354417
+conv4_6_b_part_1_o, 1.152e-05,5.01e-06,1.653e-05,4.4826624e-05,0.0001736441856,5.240512512e-05,1.07524736044348e-05,1.65812224000097e-05,80963,0,0.000298209630724445
+Total,2.0224e-05,6.514e-06,2.6738e-05,7.86956288e-05,0.00030484201472,8.4767588352e-05,2.04307712068462e-05,3.2057344000015e-05,156530,0,0.000520793347078861
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+resnet50_16_1_rram_mem_0.25_node_54, 75.6376692347969,24.3623307652031,100,73.6448815391497,16.2766265789421,10.0784918819082,100,1,1,1,0.000520793347078861
+resnet50_16_1_rram_mem_0.25_node_54
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+conv4_6_a_part_3_i, 8.704e-06,1.504e-06,1.0208e-05,3.38690048e-05,0.00013119782912,3.2362463232e-05,9.67829760241136e-06,1.54761216000053e-05,75567,0,0.000222583716354417
+conv4_6_b_part_1_o, 1.152e-05,5.01e-06,1.653e-05,4.4826624e-05,0.0001736441856,5.240512512e-05,1.07524736044348e-05,1.65812224000097e-05,80963,0,0.000298209630724445
+Total,2.0224e-05,6.514e-06,2.6738e-05,7.86956288e-05,0.00030484201472,8.4767588352e-05,2.04307712068462e-05,3.2057344000015e-05,156530,0,0.000520793347078861
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+resnet50_16_1_rram_mem_0.25_node_54, 75.6376692347969,24.3623307652031,100,73.6448815391497,16.2766265789421,10.0784918819082,100,1,1,1,0.000520793347078861

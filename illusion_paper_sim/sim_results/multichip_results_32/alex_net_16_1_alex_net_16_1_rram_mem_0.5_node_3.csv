@@ -1,0 +1,16 @@
+alex_net_16_1_rram_mem_0.5_node_3
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+conv2_part_3_o, 4.96125e-05,9.95775e-06,5.957025e-05,0.00019305216,0.000747823104,0.000188855801856,1.9233308174315e-05,3.11185408000313e-05,151946,0,0.00118008291483035
+conv3_part_1_o, 1.755e-05,4.587e-06,2.2137e-05,6.829056e-05,0.000264536064,7.0181019648e-05,1.88945945655022e-05,3.0643404800012e-05,149626,0,0.000452545643013514
+Total,6.71625e-05,1.454475e-05,8.170725e-05,0.00026134272,0.001012359168,0.000259036821504,3.81279027398172e-05,6.17619456000433e-05,301572,0,0.00163262855784386
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+alex_net_16_1_rram_mem_0.5_node_3, 82.1989480737633,17.8010519262367,100,78.0154115203106,15.8662434427889,6.11834503690053,100,1,1,1,0.00163262855784386
+alex_net_16_1_rram_mem_0.5_node_3
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+conv2_part_3_o, 4.96125e-05,9.95775e-06,5.957025e-05,0.00019305216,0.000747823104,0.000188855801856,1.9233308174315e-05,3.11185408000313e-05,151946,0,0.00118008291483035
+conv3_part_1_o, 1.755e-05,4.587e-06,2.2137e-05,6.829056e-05,0.000264536064,7.0181019648e-05,1.88945945655022e-05,3.0643404800012e-05,149626,0,0.000452545643013514
+Total,6.71625e-05,1.454475e-05,8.170725e-05,0.00026134272,0.001012359168,0.000259036821504,3.81279027398172e-05,6.17619456000433e-05,301572,0,0.00163262855784386
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+alex_net_16_1_rram_mem_0.5_node_3, 82.1989480737633,17.8010519262367,100,78.0154115203106,15.8662434427889,6.11834503690053,100,1,1,1,0.00163262855784386

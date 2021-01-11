@@ -1,0 +1,16 @@
+resnet50_16_1_rram_mem_0.25_node_41
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+conv4_4_b_part_5_o, 1.728e-05,6.224e-06,2.3504e-05,6.7239936e-05,0.0002604662784,7.4514825216e-05,1.85957401661206e-05,2.98637312000134e-05,145819,0,0.000450680510982134
+conv4_4_c_part_1_o, 1.024e-06,2.1e-07,1.234e-06,3.9845888e-06,1.543503872e-05,3.912155136e-06,1.2579456002973e-06,2.07155200000065e-06,10115,0,2.6661280256298e-05
+Total,1.8304e-05,6.434e-06,2.4738e-05,7.12245248e-05,0.00027590131712,7.8426980352e-05,1.98536857664179e-05,3.1935283200014e-05,155934,0,0.000477341791238432
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+resnet50_16_1_rram_mem_0.25_node_41, 73.9914301883742,26.0085698116258,100,72.7206057151218,16.4299421905898,10.8494520942884,100,1,1,1,0.000477341791238432
+resnet50_16_1_rram_mem_0.25_node_41
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+conv4_4_b_part_5_o, 1.728e-05,6.224e-06,2.3504e-05,6.7239936e-05,0.0002604662784,7.4514825216e-05,1.85957401661206e-05,2.98637312000134e-05,145819,0,0.000450680510982134
+conv4_4_c_part_1_o, 1.024e-06,2.1e-07,1.234e-06,3.9845888e-06,1.543503872e-05,3.912155136e-06,1.2579456002973e-06,2.07155200000065e-06,10115,0,2.6661280256298e-05
+Total,1.8304e-05,6.434e-06,2.4738e-05,7.12245248e-05,0.00027590131712,7.8426980352e-05,1.98536857664179e-05,3.1935283200014e-05,155934,0,0.000477341791238432
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+resnet50_16_1_rram_mem_0.25_node_41, 73.9914301883742,26.0085698116258,100,72.7206057151218,16.4299421905898,10.8494520942884,100,1,1,1,0.000477341791238432

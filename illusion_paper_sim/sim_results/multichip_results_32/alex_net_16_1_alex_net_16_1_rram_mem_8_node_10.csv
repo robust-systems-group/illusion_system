@@ -1,0 +1,16 @@
+alex_net_16_1_rram_mem_8_node_10
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+fc1_part_10_o, 2.016e-06,1.0461e-05,1.2477e-05,7.8446592e-06,3.038773248e-05,3.9555883008e-05,3.53788134447227e-05,5.00357120000103e-05,244255,32,0.000163202800132733
+fc2_part_1_o, 5.12e-07,1.413e-06,1.925e-06,1.9922944e-06,7.71751936e-06,6.1028352e-06,3.76817920068725e-06,6.3993856000015e-06,31247,0,2.59802137606888e-05
+Total,2.528e-06,1.1874e-05,1.4402e-05,9.8369536e-06,3.810525184e-05,4.5658718208e-05,3.91469926454099e-05,5.64350976000118e-05,275502,32,0.000189183013893422
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+alex_net_16_1_rram_mem_8_node_10, 17.5531176225524,82.4468823774476,100,25.341707193125,24.1346816864448,50.5236111204302,100,1,1,1,0.000189183013893422
+alex_net_16_1_rram_mem_8_node_10
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+fc1_part_10_o, 2.016e-06,1.0461e-05,1.2477e-05,7.8446592e-06,3.038773248e-05,3.9555883008e-05,3.53788134447227e-05,5.00357120000103e-05,244255,32,0.000163202800132733
+fc2_part_1_o, 5.12e-07,1.413e-06,1.925e-06,1.9922944e-06,7.71751936e-06,6.1028352e-06,3.76817920068725e-06,6.3993856000015e-06,31247,0,2.59802137606888e-05
+Total,2.528e-06,1.1874e-05,1.4402e-05,9.8369536e-06,3.810525184e-05,4.5658718208e-05,3.91469926454099e-05,5.64350976000118e-05,275502,32,0.000189183013893422
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+alex_net_16_1_rram_mem_8_node_10, 17.5531176225524,82.4468823774476,100,25.341707193125,24.1346816864448,50.5236111204302,100,1,1,1,0.000189183013893422

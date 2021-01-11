@@ -1,0 +1,16 @@
+alex_net_16_1_rram_mem_0.5_node_15
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+conv5_part_5_i, 1.296e-05,2.699e-06,1.5659e-05,5.0429952e-05,0.0001953497088,4.9643790336e-05,1.34896972837797e-05,2.18566656000083e-05,106722,0,0.000330769814019788
+fc1_part_1_o, 1.152e-06,3.821e-06,4.973e-06,4.4826624e-06,1.736441856e-05,1.5765921792e-05,5.27747328181058e-06,3.89591040000396e-06,19023,0,4.67863864338145e-05
+Total,1.4112e-05,6.52e-06,2.0632e-05,5.49126144e-05,0.00021271412736,6.5409712128e-05,1.87671705655903e-05,2.57525760000123e-05,125745,0,0.000377556200453603
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+alex_net_16_1_rram_mem_0.5_node_15, 68.3986041101202,31.6013958898798,100,70.8839482541853,17.3244968694503,11.7915548763643,100,1,1,1,0.000377556200453603
+alex_net_16_1_rram_mem_0.5_node_15
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+conv5_part_5_i, 1.296e-05,2.699e-06,1.5659e-05,5.0429952e-05,0.0001953497088,4.9643790336e-05,1.34896972837797e-05,2.18566656000083e-05,106722,0,0.000330769814019788
+fc1_part_1_o, 1.152e-06,3.821e-06,4.973e-06,4.4826624e-06,1.736441856e-05,1.5765921792e-05,5.27747328181058e-06,3.89591040000396e-06,19023,0,4.67863864338145e-05
+Total,1.4112e-05,6.52e-06,2.0632e-05,5.49126144e-05,0.00021271412736,6.5409712128e-05,1.87671705655903e-05,2.57525760000123e-05,125745,0,0.000377556200453603
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+alex_net_16_1_rram_mem_0.5_node_15, 68.3986041101202,31.6013958898798,100,70.8839482541853,17.3244968694503,11.7915548763643,100,1,1,1,0.000377556200453603

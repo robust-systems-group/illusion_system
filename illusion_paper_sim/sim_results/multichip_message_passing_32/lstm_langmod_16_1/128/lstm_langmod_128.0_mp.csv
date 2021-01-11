@@ -1,0 +1,20 @@
+Node Name, Layer Name, Layer Number, ifmap, ofmap, fmap
+node_1,embed1_part_1_i,1,64,4194304,131072
+node_2,embed1_part_2_i,1,64,4194304,131072
+node_3,embed1_part_3_i,1,64,4194304,131072
+node_4,embed1_part_4_i,1,64,4194304,131072
+node_5,embed1_part_5_i,1,64,4194304,131072
+node_6,embed1_part_6_i,1,64,4194304,131072
+node_7,embed1_part_7_i,1,64,4194304,131072
+node_8,embed1_part_8_i,1,64,4194304,131072
+node_9,embed1_part_9_i,1,64,4194304,131072
+node_10,embed1_part_10_i,1,64,4194304,131072
+node_11,embed1_part_11_i,1,64,4194304,131072
+node_12,embed1_part_12_i,1,64,4194304,131072
+node_13,embed1_part_13_i,1,64,450432,14076
+node_13,act_1_part_1_o,2,131072,1663744,106479616
+node_13,proj_1_part_1_i,3,415936,65536,13309952
+node_14,act_1_part_2_o,1,131072,433408,27738112
+node_14,proj_1_part_2_i,2,108352,65536,3467264
+node_13_dummy,conv_part_1,1,64,13309952,415936
+node_14_dummy,conv_part_2,1,64,3467264,108352

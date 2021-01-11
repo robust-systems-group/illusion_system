@@ -1,0 +1,16 @@
+resnet50_16_1_rram_mem_1_node_33
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+conv5_3_a_part_3_i, 1.6128e-05,8.347e-06,2.4475e-05,6.27572736e-05,0.00024310185984,7.75931904e-05,6.28372147267577e-05,0.000106649600000015,520750,0,0.000552939138566773
+conv5_3_b_part_1_o, 1.15875e-06,5.293625e-06,6.452375e-06,4.508928e-06,1.74661632e-05,2.0455990272e-05,5.10568704241836e-06,4.11873280000528e-06,20111,0,5.16555013144236e-05
+Total,1.728675e-05,1.3640625e-05,3.0927375e-05,6.72662016e-05,0.00026056802304,9.8049180672e-05,6.79429017691761e-05,0.00011076833280002,540861,0,0.000604594639881196
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+resnet50_16_1_rram_mem_1_node_33, 55.8946564330144,44.1053435669856,100,54.2238060040393,16.2173420345352,29.5588519614255,100,1,1,1,0.000604594639881196
+resnet50_16_1_rram_mem_1_node_33
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+conv5_3_a_part_3_i, 1.6128e-05,8.347e-06,2.4475e-05,6.27572736e-05,0.00024310185984,7.75931904e-05,6.28372147267577e-05,0.000106649600000015,520750,0,0.000552939138566773
+conv5_3_b_part_1_o, 1.15875e-06,5.293625e-06,6.452375e-06,4.508928e-06,1.74661632e-05,2.0455990272e-05,5.10568704241836e-06,4.11873280000528e-06,20111,0,5.16555013144236e-05
+Total,1.728675e-05,1.3640625e-05,3.0927375e-05,6.72662016e-05,0.00026056802304,9.8049180672e-05,6.79429017691761e-05,0.00011076833280002,540861,0,0.000604594639881196
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+resnet50_16_1_rram_mem_1_node_33, 55.8946564330144,44.1053435669856,100,54.2238060040393,16.2173420345352,29.5588519614255,100,1,1,1,0.000604594639881196

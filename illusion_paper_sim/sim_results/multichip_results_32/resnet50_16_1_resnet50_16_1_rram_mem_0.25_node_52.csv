@@ -1,0 +1,16 @@
+resnet50_16_1_rram_mem_0.25_node_52
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+conv4_5_c_part_3_o, 9.216e-06,1.308e-06,1.0524e-05,3.58612992e-05,0.00013891534848,3.3364279296e-05,9.48799744243607e-06,1.54761216000053e-05,75567,0,0.000233105046018441
+conv4_6_a_part_1_i, 7.936e-06,1.241e-06,9.177e-06,3.08805632e-05,0.00011962155008,2.9093879808e-05,8.77523200214494e-06,1.39384832000047e-05,68059,0,0.00020230970829015
+Total,1.7152e-05,2.549e-06,1.9701e-05,6.67418624e-05,0.00025853689856,6.2458159104e-05,1.8263229444581e-05,2.941460480001e-05,143626,0,0.000435414754308591
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+resnet50_16_1_rram_mem_0.25_node_52, 87.0615704786559,12.9384295213441,100,74.7054980891772,14.3445205946637,10.9499813161592,100,1,1,1,0.000435414754308591
+resnet50_16_1_rram_mem_0.25_node_52
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+conv4_5_c_part_3_o, 9.216e-06,1.308e-06,1.0524e-05,3.58612992e-05,0.00013891534848,3.3364279296e-05,9.48799744243607e-06,1.54761216000053e-05,75567,0,0.000233105046018441
+conv4_6_a_part_1_i, 7.936e-06,1.241e-06,9.177e-06,3.08805632e-05,0.00011962155008,2.9093879808e-05,8.77523200214494e-06,1.39384832000047e-05,68059,0,0.00020230970829015
+Total,1.7152e-05,2.549e-06,1.9701e-05,6.67418624e-05,0.00025853689856,6.2458159104e-05,1.8263229444581e-05,2.941460480001e-05,143626,0,0.000435414754308591
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+resnet50_16_1_rram_mem_0.25_node_52, 87.0615704786559,12.9384295213441,100,74.7054980891772,14.3445205946637,10.9499813161592,100,1,1,1,0.000435414754308591

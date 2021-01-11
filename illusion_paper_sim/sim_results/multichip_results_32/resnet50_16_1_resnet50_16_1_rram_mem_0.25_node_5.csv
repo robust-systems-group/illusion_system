@@ -1,0 +1,16 @@
+resnet50_16_1_rram_mem_0.25_node_5
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+conv3_2_b_part_2_o, 4.851e-05,9.993e-06,5.8503e-05,0.000188762112,0.0007312048128,0.000185472294912,1.86675430541025e-05,2.96908800000308e-05,144975,0,0.00115379764276613
+conv3_2_c_part_1_o, 5.488e-06,8.94e-07,6.382e-06,2.13549056e-05,8.272216064e-05,2.0232880128e-05,3.64235008149804e-06,5.12798720000327e-06,25039,0,0.000133080283649501
+Total,5.3998e-05,1.0887e-05,6.4885e-05,0.0002101170176,0.00081392697344,0.00020570517504,2.23098931356005e-05,3.48188672000341e-05,170014,0,0.00128687792641563
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+resnet50_16_1_rram_mem_0.25_node_5, 83.2210834553441,16.7789165446559,100,79.575845542109,15.9848242647968,4.43933019309426,100,1,1,1,0.00128687792641563
+resnet50_16_1_rram_mem_0.25_node_5
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+conv3_2_b_part_2_o, 4.851e-05,9.993e-06,5.8503e-05,0.000188762112,0.0007312048128,0.000185472294912,1.86675430541025e-05,2.96908800000308e-05,144975,0,0.00115379764276613
+conv3_2_c_part_1_o, 5.488e-06,8.94e-07,6.382e-06,2.13549056e-05,8.272216064e-05,2.0232880128e-05,3.64235008149804e-06,5.12798720000327e-06,25039,0,0.000133080283649501
+Total,5.3998e-05,1.0887e-05,6.4885e-05,0.0002101170176,0.00081392697344,0.00020570517504,2.23098931356005e-05,3.48188672000341e-05,170014,0,0.00128687792641563
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+resnet50_16_1_rram_mem_0.25_node_5, 83.2210834553441,16.7789165446559,100,79.575845542109,15.9848242647968,4.43933019309426,100,1,1,1,0.00128687792641563

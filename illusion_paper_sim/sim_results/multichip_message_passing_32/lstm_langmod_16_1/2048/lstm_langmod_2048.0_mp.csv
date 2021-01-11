@@ -1,0 +1,5 @@
+Node Name, Layer Name, Layer Number, ifmap, ofmap, fmap
+node_1,embed1,1,64,50782080,1586940
+node_1,act_1,2,131072,2097152,134217728
+node_1,proj_1,3,524288,0,16777216
+node_1_dummy,conv_part_1,1,64,16777216,524288

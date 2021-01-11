@@ -1,0 +1,16 @@
+lstm_langmod_16_1_rram_mem_8_node_195
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+act_1_part_2_o, 6.144e-05,6.876e-06,6.8316e-05,0.000239075328,0.0009261023232,0.000216582488064,3.68432563354811e-05,6.18772480000338e-05,302135,0,0.00148048064359951
+proj_1_part_2_i, 7.424e-06,1.116e-06,8.54e-06,2.88882688e-05,0.00011190403072,2.707439616e-05,6.21357312198805e-06,9.36488960000435e-06,45727,0,0.000183445158401992
+Total,6.8864e-05,7.992e-06,7.6856e-05,0.0002679635968,0.00103800635392,0.000243656884224,4.30568294574691e-05,7.12421376000382e-05,347862,0,0.00166392580200151
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+lstm_langmod_16_1_rram_mem_8_node_195, 89.6013323618195,10.3986676381805,100,78.4872708355788,14.643494555521,6.86923460890017,100,1,1,1,0.00166392580200151
+lstm_langmod_16_1_rram_mem_8_node_195
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+act_1_part_2_o, 6.144e-05,6.876e-06,6.8316e-05,0.000239075328,0.0009261023232,0.000216582488064,3.68432563354811e-05,6.18772480000338e-05,302135,0,0.00148048064359951
+proj_1_part_2_i, 7.424e-06,1.116e-06,8.54e-06,2.88882688e-05,0.00011190403072,2.707439616e-05,6.21357312198805e-06,9.36488960000435e-06,45727,0,0.000183445158401992
+Total,6.8864e-05,7.992e-06,7.6856e-05,0.0002679635968,0.00103800635392,0.000243656884224,4.30568294574691e-05,7.12421376000382e-05,347862,0,0.00166392580200151
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+lstm_langmod_16_1_rram_mem_8_node_195, 89.6013323618195,10.3986676381805,100,78.4872708355788,14.643494555521,6.86923460890017,100,1,1,1,0.00166392580200151

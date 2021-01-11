@@ -1,0 +1,16 @@
+lstm_langmod_1_16_1_rram_mem_8_node_1
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+act_2_part_1_o, 7.68e-06,6.4116e-05,7.1796e-05,2.9884416e-05,0.0001157627904,0.000227615145984,0.000116165941787983,4.96611328000612e-05,241616,464,0.000539089426972044
+output_part_1_i, 9.28e-07,6.12e-07,1.54e-06,3.6110336e-06,1.398800384e-05,4.88226816e-06,3.90498560044307e-06,6.40593920000097e-06,31279,0,3.2792230400444e-05
+Total,8.608e-06,6.4728e-05,7.3336e-05,3.34954496e-05,0.00012975079424,0.000232497414144,0.000120070927388426,5.60670720000622e-05,272895,464,0.000571881657372488
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+lstm_langmod_1_16_1_rram_mem_8_node_1, 11.7377549907276,88.2622450092724,100,28.5454589661147,40.6548122582231,30.7997287756622,100,1,1,1,0.000571881657372488
+lstm_langmod_1_16_1_rram_mem_8_node_1
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+act_2_part_1_o, 7.68e-06,6.4116e-05,7.1796e-05,2.9884416e-05,0.0001157627904,0.000227615145984,0.000116165941787983,4.96611328000612e-05,241616,464,0.000539089426972044
+output_part_1_i, 9.28e-07,6.12e-07,1.54e-06,3.6110336e-06,1.398800384e-05,4.88226816e-06,3.90498560044307e-06,6.40593920000097e-06,31279,0,3.2792230400444e-05
+Total,8.608e-06,6.4728e-05,7.3336e-05,3.34954496e-05,0.00012975079424,0.000232497414144,0.000120070927388426,5.60670720000622e-05,272895,464,0.000571881657372488
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+lstm_langmod_1_16_1_rram_mem_8_node_1, 11.7377549907276,88.2622450092724,100,28.5454589661147,40.6548122582231,30.7997287756622,100,1,1,1,0.000571881657372488

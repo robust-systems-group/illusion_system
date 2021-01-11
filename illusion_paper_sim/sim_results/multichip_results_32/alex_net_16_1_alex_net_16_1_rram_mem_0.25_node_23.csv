@@ -1,0 +1,16 @@
+alex_net_16_1_rram_mem_0.25_node_23
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+conv4_part_12_o, 3.898125e-06,4.1269375e-06,8.0250625e-06,1.5168384e-05,5.87575296e-05,2.5441887744e-05,7.76770816250195e-06,1.11149056000055e-05,54272,0,0.000118250415106507
+conv5_part_1_i, 1.296e-05,2.692e-06,1.5652e-05,5.0429952e-05,0.0001953497088,4.9621598208e-05,1.32487705637768e-05,2.13743616000083e-05,104367,0,0.000330024391171785
+Total,1.6858125e-05,6.8189375e-06,2.36770625e-05,6.5598336e-05,0.0002541072384,7.5063485952e-05,2.10164787262787e-05,3.24892672000138e-05,158639,0,0.000448274806278293
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+alex_net_16_1_rram_mem_0.25_node_23, 71.2002386275747,28.7997613724253,100,71.3191038002533,16.74497091978,11.9359252799667,100,1,1,1,0.000448274806278293
+alex_net_16_1_rram_mem_0.25_node_23
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+conv4_part_12_o, 3.898125e-06,4.1269375e-06,8.0250625e-06,1.5168384e-05,5.87575296e-05,2.5441887744e-05,7.76770816250195e-06,1.11149056000055e-05,54272,0,0.000118250415106507
+conv5_part_1_i, 1.296e-05,2.692e-06,1.5652e-05,5.0429952e-05,0.0001953497088,4.9621598208e-05,1.32487705637768e-05,2.13743616000083e-05,104367,0,0.000330024391171785
+Total,1.6858125e-05,6.8189375e-06,2.36770625e-05,6.5598336e-05,0.0002541072384,7.5063485952e-05,2.10164787262787e-05,3.24892672000138e-05,158639,0,0.000448274806278293
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+alex_net_16_1_rram_mem_0.25_node_23, 71.2002386275747,28.7997613724253,100,71.3191038002533,16.74497091978,11.9359252799667,100,1,1,1,0.000448274806278293

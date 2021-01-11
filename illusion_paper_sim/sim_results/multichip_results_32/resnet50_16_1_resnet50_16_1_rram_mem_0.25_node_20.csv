@@ -1,0 +1,16 @@
+resnet50_16_1_rram_mem_0.25_node_20
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+conv4_2_a_part_3_i, 4.096e-06,7e-07,4.796e-06,1.59383552e-05,6.174015488e-05,1.5204777984e-05,5.03173376113156e-06,7.56510720000248e-06,36939,0,0.000105480129025134
+conv4_2_b_part_1_o, 1.728e-05,5.786e-06,2.3066e-05,6.7239936e-05,0.0002604662784,7.3126232064e-05,1.52342758459403e-05,2.4171110400013e-05,118023,0,0.000440237832709953
+Total,2.1376e-05,6.486e-06,2.7862e-05,8.31782912e-05,0.00032220643328,8.8331010048e-05,2.02660096070719e-05,3.17362176000155e-05,154962,0,0.000545717961735087
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+resnet50_16_1_rram_mem_0.25_node_20, 76.7209819826287,23.2790180173713,100,74.2846585424999,16.1862017088745,9.52913974862554,100,1,1,1,0.000545717961735087
+resnet50_16_1_rram_mem_0.25_node_20
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+conv4_2_a_part_3_i, 4.096e-06,7e-07,4.796e-06,1.59383552e-05,6.174015488e-05,1.5204777984e-05,5.03173376113156e-06,7.56510720000248e-06,36939,0,0.000105480129025134
+conv4_2_b_part_1_o, 1.728e-05,5.786e-06,2.3066e-05,6.7239936e-05,0.0002604662784,7.3126232064e-05,1.52342758459403e-05,2.4171110400013e-05,118023,0,0.000440237832709953
+Total,2.1376e-05,6.486e-06,2.7862e-05,8.31782912e-05,0.00032220643328,8.8331010048e-05,2.02660096070719e-05,3.17362176000155e-05,154962,0,0.000545717961735087
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+resnet50_16_1_rram_mem_0.25_node_20, 76.7209819826287,23.2790180173713,100,74.2846585424999,16.1862017088745,9.52913974862554,100,1,1,1,0.000545717961735087

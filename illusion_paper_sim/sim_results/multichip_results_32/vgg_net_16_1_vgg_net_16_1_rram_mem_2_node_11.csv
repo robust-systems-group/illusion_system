@@ -1,0 +1,14 @@
+vgg_net_16_1_rram_mem_2_node_11
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+conv12_part_2_o, 0.0001320975,0.00010824225,0.00024033975,0.000514017792,0.0019911426048,0.000761950070784,0.000133459212871769,0.000224010547200157,1090299,1868,0.00362458022765593
+Total,0.0001320975,0.00010824225,0.00024033975,0.000514017792,0.0019911426048,0.000761950070784,0.000133459212871769,0.000224010547200157,1090299,1868,0.00362458022765593
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+vgg_net_16_1_rram_mem_2_node_11, 54.9628182604001,45.0371817395999,100,69.1158765830417,21.021746600344,9.86237681661436,100,1,1,1,0.00362458022765593
+vgg_net_16_1_rram_mem_2_node_11
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+conv12_part_2_o, 0.0001320975,0.00010824225,0.00024033975,0.000514017792,0.0019911426048,0.000761950070784,0.000133459212871769,0.000224010547200157,1090299,1868,0.00362458022765593
+Total,0.0001320975,0.00010824225,0.00024033975,0.000514017792,0.0019911426048,0.000761950070784,0.000133459212871769,0.000224010547200157,1090299,1868,0.00362458022765593
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+vgg_net_16_1_rram_mem_2_node_11, 54.9628182604001,45.0371817395999,100,69.1158765830417,21.021746600344,9.86237681661436,100,1,1,1,0.00362458022765593

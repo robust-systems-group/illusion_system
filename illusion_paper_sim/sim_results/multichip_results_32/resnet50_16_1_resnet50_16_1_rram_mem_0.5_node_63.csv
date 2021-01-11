@@ -1,0 +1,16 @@
+resnet50_16_1_rram_mem_0.5_node_63
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+conv5_2_c_part_5_o, 2.048e-06,1.5514e-05,1.7562e-05,7.9691776e-06,3.087007744e-05,5.5676878848e-05,2.694156544681e-05,1.17141504000149e-05,57198,0,0.000133171849734825
+conv5_3_a_part_1_i, 6.528e-06,3.702e-06,1.023e-05,2.54017536e-05,9.839837184e-05,3.243220992e-05,2.57715584028684e-05,4.29375488000063e-05,209656,0,0.000224941442562875
+Total,8.576e-06,1.9216e-05,2.7792e-05,3.33709312e-05,0.00012926844928,8.8109088768e-05,5.27131238496784e-05,5.46516992000212e-05,266854,0,0.0003581132922977
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+resnet50_16_1_rram_mem_0.5_node_63, 30.8578008059873,69.1421991940127,100,45.4156223681298,24.6036912516375,29.9806863802328,100,1,1,1,0.0003581132922977
+resnet50_16_1_rram_mem_0.5_node_63
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+conv5_2_c_part_5_o, 2.048e-06,1.5514e-05,1.7562e-05,7.9691776e-06,3.087007744e-05,5.5676878848e-05,2.694156544681e-05,1.17141504000149e-05,57198,0,0.000133171849734825
+conv5_3_a_part_1_i, 6.528e-06,3.702e-06,1.023e-05,2.54017536e-05,9.839837184e-05,3.243220992e-05,2.57715584028684e-05,4.29375488000063e-05,209656,0,0.000224941442562875
+Total,8.576e-06,1.9216e-05,2.7792e-05,3.33709312e-05,0.00012926844928,8.8109088768e-05,5.27131238496784e-05,5.46516992000212e-05,266854,0,0.0003581132922977
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+resnet50_16_1_rram_mem_0.5_node_63, 30.8578008059873,69.1421991940127,100,45.4156223681298,24.6036912516375,29.9806863802328,100,1,1,1,0.0003581132922977

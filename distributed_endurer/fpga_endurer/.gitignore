@@ -1,0 +1,8 @@
+test_distributed
+test_gemm_dist
+test_single_chip
+test_two_chips
+test_endurer_top
+simulate_workload_svhn
+simulate_workload_d2nn
+simulate_workload_lstm2

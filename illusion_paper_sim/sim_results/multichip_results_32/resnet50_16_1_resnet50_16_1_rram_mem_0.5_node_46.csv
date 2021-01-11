@@ -1,0 +1,16 @@
+resnet50_16_1_rram_mem_0.5_node_46
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+conv5_1_c_part_5_o, 7.68e-07,6.418e-06,7.186e-06,2.9884416e-06,1.157627904e-05,2.2781804544e-05,9.14718976280091e-06,4.11934720000612e-06,20114,0,5.0613062146807e-05
+conv5_2_a_part_1_i, 7.68e-06,4.218e-06,1.1898e-05,2.9884416e-05,0.0001157627904,3.7720276992e-05,3.02329420833181e-05,5.05323520000073e-05,246740,0,0.000264132777475325
+Total,8.448e-06,1.0636e-05,1.9084e-05,3.28728576e-05,0.00012733906944,6.0502081536e-05,3.9380131846119e-05,5.46516992000134e-05,266854,0,0.000314745839622132
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+resnet50_16_1_rram_mem_0.5_node_46, 44.2674491720813,55.7325508279187,100,50.9019999223317,19.2225198619418,29.8754802157265,100,1,1,1,0.000314745839622132
+resnet50_16_1_rram_mem_0.5_node_46
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+conv5_1_c_part_5_o, 7.68e-07,6.418e-06,7.186e-06,2.9884416e-06,1.157627904e-05,2.2781804544e-05,9.14718976280091e-06,4.11934720000612e-06,20114,0,5.0613062146807e-05
+conv5_2_a_part_1_i, 7.68e-06,4.218e-06,1.1898e-05,2.9884416e-05,0.0001157627904,3.7720276992e-05,3.02329420833181e-05,5.05323520000073e-05,246740,0,0.000264132777475325
+Total,8.448e-06,1.0636e-05,1.9084e-05,3.28728576e-05,0.00012733906944,6.0502081536e-05,3.9380131846119e-05,5.46516992000134e-05,266854,0,0.000314745839622132
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+resnet50_16_1_rram_mem_0.5_node_46, 44.2674491720813,55.7325508279187,100,50.9019999223317,19.2225198619418,29.8754802157265,100,1,1,1,0.000314745839622132

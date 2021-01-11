@@ -1,0 +1,16 @@
+resnet50_16_1_rram_mem_0.25_node_59
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+conv4_6_b_part_6_o, 4.32e-06,4.808e-06,9.128e-06,1.6809984e-05,6.51165696e-05,2.8938534912e-05,5.14885888286926e-06,7.09406720000627e-06,34639,0,0.000123108014594876
+conv4_6_c_part_1_o, 1.536e-05,2.154e-06,1.7514e-05,5.9768832e-05,0.0002315255808,5.5524704256e-05,1.58295884840494e-05,2.58045952000089e-05,125999,0,0.000388453300740058
+Total,1.968e-05,6.962e-06,2.6642e-05,7.6578816e-05,0.0002966421504,8.4463239168e-05,2.09784473669187e-05,3.28986624000152e-05,160638,0,0.000511561315334934
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+resnet50_16_1_rram_mem_0.25_node_59, 73.8683282035883,26.1316717964117,100,72.9572301915835,16.5108730148408,10.5318967935758,100,1,1,1,0.000511561315334934
+resnet50_16_1_rram_mem_0.25_node_59
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+conv4_6_b_part_6_o, 4.32e-06,4.808e-06,9.128e-06,1.6809984e-05,6.51165696e-05,2.8938534912e-05,5.14885888286926e-06,7.09406720000627e-06,34639,0,0.000123108014594876
+conv4_6_c_part_1_o, 1.536e-05,2.154e-06,1.7514e-05,5.9768832e-05,0.0002315255808,5.5524704256e-05,1.58295884840494e-05,2.58045952000089e-05,125999,0,0.000388453300740058
+Total,1.968e-05,6.962e-06,2.6642e-05,7.6578816e-05,0.0002966421504,8.4463239168e-05,2.09784473669187e-05,3.28986624000152e-05,160638,0,0.000511561315334934
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+resnet50_16_1_rram_mem_0.25_node_59, 73.8683282035883,26.1316717964117,100,72.9572301915835,16.5108730148408,10.5318967935758,100,1,1,1,0.000511561315334934

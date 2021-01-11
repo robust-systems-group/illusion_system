@@ -1,0 +1,14 @@
+resnet50_16_1_rram_mem_0.25_node_51
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+conv4_5_c_part_2_o, 1.6384e-05,2.396e-06,1.878e-05,6.37534208e-05,0.00024696061952,5.953830912e-05,1.76496870443599e-05,2.87700992000095e-05,140479,0,0.000416672135684369
+Total,1.6384e-05,2.396e-06,1.878e-05,6.37534208e-05,0.00024696061952,5.953830912e-05,1.76496870443599e-05,2.87700992000095e-05,140479,0,0.000416672135684369
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+resnet50_16_1_rram_mem_0.25_node_51, 87.2417465388711,12.7582534611289,100,74.5703908925091,14.2890066364074,11.1406024710835,100,1,1,1,0.000416672135684369
+resnet50_16_1_rram_mem_0.25_node_51
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+conv4_5_c_part_2_o, 1.6384e-05,2.396e-06,1.878e-05,6.37534208e-05,0.00024696061952,5.953830912e-05,1.76496870443599e-05,2.87700992000095e-05,140479,0,0.000416672135684369
+Total,1.6384e-05,2.396e-06,1.878e-05,6.37534208e-05,0.00024696061952,5.953830912e-05,1.76496870443599e-05,2.87700992000095e-05,140479,0,0.000416672135684369
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+resnet50_16_1_rram_mem_0.25_node_51, 87.2417465388711,12.7582534611289,100,74.5703908925091,14.2890066364074,11.1406024710835,100,1,1,1,0.000416672135684369

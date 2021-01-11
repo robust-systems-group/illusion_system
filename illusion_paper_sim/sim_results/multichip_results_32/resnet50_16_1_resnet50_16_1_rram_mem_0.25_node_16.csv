@@ -1,0 +1,16 @@
+resnet50_16_1_rram_mem_0.25_node_16
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+conv4_1_b_part_6_o, 4.32e-06,5.1e-06,9.42e-06,1.6809984e-05,6.51165696e-05,2.986426368e-05,7.3898624029895e-06,1.08886016000065e-05,53167,0,0.000130069281282996
+conv4_1_c_part_1_o, 1.3312e-05,1.83e-06,1.5142e-05,5.17996544e-05,0.00020065550336,4.8004743168e-05,1.34016435234943e-05,2.18494976000076e-05,106687,0,0.000335711042051502
+Total,1.7632e-05,6.93e-06,2.4562e-05,6.86096384e-05,0.00026577207296,7.7869006848e-05,2.07915059264838e-05,3.27380992000141e-05,159854,0,0.000465780323334498
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+resnet50_16_1_rram_mem_0.25_node_16, 71.7856852047879,28.2143147952121,100,71.7895743139552,16.7179683097259,11.492457376319,100,1,1,1,0.000465780323334498
+resnet50_16_1_rram_mem_0.25_node_16
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+conv4_1_b_part_6_o, 4.32e-06,5.1e-06,9.42e-06,1.6809984e-05,6.51165696e-05,2.986426368e-05,7.3898624029895e-06,1.08886016000065e-05,53167,0,0.000130069281282996
+conv4_1_c_part_1_o, 1.3312e-05,1.83e-06,1.5142e-05,5.17996544e-05,0.00020065550336,4.8004743168e-05,1.34016435234943e-05,2.18494976000076e-05,106687,0,0.000335711042051502
+Total,1.7632e-05,6.93e-06,2.4562e-05,6.86096384e-05,0.00026577207296,7.7869006848e-05,2.07915059264838e-05,3.27380992000141e-05,159854,0,0.000465780323334498
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+resnet50_16_1_rram_mem_0.25_node_16, 71.7856852047879,28.2143147952121,100,71.7895743139552,16.7179683097259,11.492457376319,100,1,1,1,0.000465780323334498

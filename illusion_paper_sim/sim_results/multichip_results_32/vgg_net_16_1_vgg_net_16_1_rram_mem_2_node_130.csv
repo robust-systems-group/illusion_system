@@ -1,0 +1,16 @@
+vgg_net_16_1_rram_mem_2_node_130
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+fc2_part_17_o, 5.12e-07,1.933e-06,2.445e-06,1.9922944e-06,7.71751936e-06,7.75139328e-06,7.85107200090138e-06,1.3372416000002e-05,65295,0,3.86846950409034e-05
+fc3_part_1_i, 4e-08,1.73e-07,2.13e-07,1.55648e-07,6.029312e-07,6.75274752e-07,6.25088000079473e-07,9.51705600000174e-07,4647,0,3.01064755207965e-06
+Total,5.52e-07,2.106e-06,2.658e-06,2.1479424e-06,8.32045056e-06,8.426668032e-06,8.47616000098085e-06,1.43241216000022e-05,69942,0,4.1695342592983e-05
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+vgg_net_16_1_rram_mem_2_node_130, 20.7674943566591,79.2325056433409,100,25.1068640020282,20.210094240641,54.6830417573308,100,1,1,1,4.1695342592983e-05
+vgg_net_16_1_rram_mem_2_node_130
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+fc2_part_17_o, 5.12e-07,1.933e-06,2.445e-06,1.9922944e-06,7.71751936e-06,7.75139328e-06,7.85107200090138e-06,1.3372416000002e-05,65295,0,3.86846950409034e-05
+fc3_part_1_i, 4e-08,1.73e-07,2.13e-07,1.55648e-07,6.029312e-07,6.75274752e-07,6.25088000079473e-07,9.51705600000174e-07,4647,0,3.01064755207965e-06
+Total,5.52e-07,2.106e-06,2.658e-06,2.1479424e-06,8.32045056e-06,8.426668032e-06,8.47616000098085e-06,1.43241216000022e-05,69942,0,4.1695342592983e-05
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+vgg_net_16_1_rram_mem_2_node_130, 20.7674943566591,79.2325056433409,100,25.1068640020282,20.210094240641,54.6830417573308,100,1,1,1,4.1695342592983e-05

@@ -1,0 +1,16 @@
+vgg_net_16_1_rram_mem_0.5_node_39
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+conv11_part_10_o, 2.08575e-05,1.048525e-05,3.134275e-05,8.1160704e-05,0.0003143909376,9.9366045696e-05,2.58828928086119e-05,4.06665216000188e-05,198567,0,0.000561467101704631
+conv12_part_1_o, 1.3905e-05,9.3835e-06,2.32885e-05,5.4107136e-05,0.0002095939584,7.3831624704e-05,1.91943296067268e-05,2.93115904000147e-05,143123,0,0.000386038639110741
+Total,3.47625e-05,1.986875e-05,5.463125e-05,0.00013526784,0.000523984896,0.0001731976704,4.50772224153387e-05,6.99781120000335e-05,341690,0,0.000947505740815372
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+vgg_net_16_1_rram_mem_0.5_node_39, 63.6311634824391,36.3688365175609,100,69.5777036065959,18.2793267564749,12.1429696369293,100,1,1,1,0.000947505740815372
+vgg_net_16_1_rram_mem_0.5_node_39
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+conv11_part_10_o, 2.08575e-05,1.048525e-05,3.134275e-05,8.1160704e-05,0.0003143909376,9.9366045696e-05,2.58828928086119e-05,4.06665216000188e-05,198567,0,0.000561467101704631
+conv12_part_1_o, 1.3905e-05,9.3835e-06,2.32885e-05,5.4107136e-05,0.0002095939584,7.3831624704e-05,1.91943296067268e-05,2.93115904000147e-05,143123,0,0.000386038639110741
+Total,3.47625e-05,1.986875e-05,5.463125e-05,0.00013526784,0.000523984896,0.0001731976704,4.50772224153387e-05,6.99781120000335e-05,341690,0,0.000947505740815372
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+vgg_net_16_1_rram_mem_0.5_node_39, 63.6311634824391,36.3688365175609,100,69.5777036065959,18.2793267564749,12.1429696369293,100,1,1,1,0.000947505740815372

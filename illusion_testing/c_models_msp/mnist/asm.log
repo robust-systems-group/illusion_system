@@ -1,0 +1,89 @@
+GAS LISTING omsp_func.s 			page 1
+
+
+   1               		.file	"omsp_func.c"
+   2               	.text
+   3               		.balign 2
+   4               		.global	set_byte
+   5               		.type	set_byte, @function
+   6               	set_byte:
+   7               	; start of function
+   8               	; attributes: 
+   9               	; framesize_regs:     0
+  10               	; framesize_locals:   4
+  11               	; framesize_outgoing: 0
+  12               	; framesize:          4
+  13               	; elim ap -> fp       2
+  14               	; elim fp -> sp       4
+  15               	; saved regs:(none)
+  16               		; start of prologue
+  17 0000 2182      		SUB.W	#4, R1
+  18               		; end of prologue
+  19 0002 814C 0200 		MOV.W	R12, 2(R1)
+  20 0006 C14D 0100 		MOV.B	R13, 1(R1)
+  21 000a 1C41 0200 		MOV.W	2(R1), R12
+  22 000e DC41 0100 		MOV.B	1(R1), @R12
+  22      0000 
+  23 0014 0343      		NOP
+  24               		; start of epilogue
+  25 0016 2152      		ADD.W	#4, R1
+  26 0018 3041      		RET
+  27               		.size	set_byte, .-set_byte
+  28               		.balign 2
+  29               		.global	set_word
+  30               		.type	set_word, @function
+  31               	set_word:
+  32               	; start of function
+  33               	; attributes: 
+  34               	; framesize_regs:     0
+  35               	; framesize_locals:   4
+  36               	; framesize_outgoing: 0
+  37               	; framesize:          4
+  38               	; elim ap -> fp       2
+  39               	; elim fp -> sp       4
+  40               	; saved regs:(none)
+  41               		; start of prologue
+  42 001a 2182      		SUB.W	#4, R1
+  43               		; end of prologue
+  44 001c 814C 0200 		MOV.W	R12, 2(R1)
+  45 0020 814D 0000 		MOV.W	R13, @R1
+  46 0024 1C41 0200 		MOV.W	2(R1), R12
+  47 0028 AC41 0000 		MOV.W	@R1, @R12
+  48 002c 0343      		NOP
+  49               		; start of epilogue
+  50 002e 2152      		ADD.W	#4, R1
+  51 0030 3041      		RET
+  52               		.size	set_word, .-set_word
+  53               		.balign 2
+  54               		.global	putbyte
+  55               		.type	putbyte, @function
+  56               	putbyte:
+GAS LISTING omsp_func.s 			page 2
+
+
+  57               	; start of function
+  58               	; framesize_regs:     0
+  59               	; framesize_locals:   0
+  60               	; framesize_outgoing: 0
+  61               	; framesize:          0
+  62               	; elim ap -> fp       2
+  63               	; elim fp -> sp       0
+  64               	; saved regs:(none)
+  65               		; start of prologue
+  66               		; end of prologue
+  67 0032 C24C 2100 		MOV.B	R12, &33
+  68 0036 D2E3 2900 		XOR.B	#1, &41
+  69               		; start of epilogue
+  70 003a 3041      		RET
+  71               		.size	putbyte, .-putbyte
+  72               		.ident	"GCC: (GNU) 5.3.0"
+GAS LISTING omsp_func.s 			page 3
+
+
+DEFINED SYMBOLS
+                            *ABS*:0000000000000000 omsp_func.c
+         omsp_func.s:6      .text:0000000000000000 set_byte
+         omsp_func.s:31     .text:000000000000001a set_word
+         omsp_func.s:56     .text:0000000000000032 putbyte
+
+NO UNDEFINED SYMBOLS

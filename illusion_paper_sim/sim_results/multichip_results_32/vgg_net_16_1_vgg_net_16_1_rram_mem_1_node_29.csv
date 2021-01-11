@@ -1,0 +1,16 @@
+vgg_net_16_1_rram_mem_1_node_29
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+conv13_part_6_o, 1.5643125e-05,1.24404375e-05,2.80835625e-05,6.0870528e-05,0.0002357932032,8.9033430528e-05,2.08664396883434e-05,3.21501184000182e-05,156983,0,0.000438713719816362
+fc1_part_1_o, 3.136e-06,1.133e-06,4.269e-06,1.22028032e-05,4.726980608e-05,1.3534027776e-05,6.04358912111221e-06,1.02791168000024e-05,50191,0,8.93293429771146e-05
+Total,1.8779125e-05,1.35734375e-05,3.23525625e-05,7.30733312e-05,0.00028306300928,0.000102567458304,2.69100288094556e-05,4.24292352000206e-05,207174,0,0.000528043062793476
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+vgg_net_16_1_rram_mem_1_node_29, 58.0452475750568,41.9547524249431,100,67.4445638194643,19.4240707872182,13.1313653933175,100,1,1,1,0.000528043062793476
+vgg_net_16_1_rram_mem_1_node_29
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+conv13_part_6_o, 1.5643125e-05,1.24404375e-05,2.80835625e-05,6.0870528e-05,0.0002357932032,8.9033430528e-05,2.08664396883434e-05,3.21501184000182e-05,156983,0,0.000438713719816362
+fc1_part_1_o, 3.136e-06,1.133e-06,4.269e-06,1.22028032e-05,4.726980608e-05,1.3534027776e-05,6.04358912111221e-06,1.02791168000024e-05,50191,0,8.93293429771146e-05
+Total,1.8779125e-05,1.35734375e-05,3.23525625e-05,7.30733312e-05,0.00028306300928,0.000102567458304,2.69100288094556e-05,4.24292352000206e-05,207174,0,0.000528043062793476
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+vgg_net_16_1_rram_mem_1_node_29, 58.0452475750568,41.9547524249431,100,67.4445638194643,19.4240707872182,13.1313653933175,100,1,1,1,0.000528043062793476

@@ -1,0 +1,16 @@
+resnet50_16_1_rram_mem_0.5_node_8
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+conv4_1_b_part_3_o, 2.304e-05,6.89e-06,2.993e-05,8.9653248e-05,0.0003472883712,9.488719872e-05,2.22388864075808e-05,3.60306688000166e-05,175931,0,0.000590098373127597
+conv4_1_c_part_1_o, 1.4336e-05,1.988e-06,1.6324e-05,5.57842432e-05,0.00021609054208,5.1752042496e-05,1.45823564837702e-05,2.37713408000082e-05,116071,0,0.000361980525059778
+Total,3.7376e-05,8.878e-06,4.6254e-05,0.0001454374912,0.00056337891328,0.000146639241216,3.6821242891351e-05,5.98020096000248e-05,292002,0,0.000952078898187376
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+resnet50_16_1_rram_mem_0.5_node_8, 80.8059843472997,19.1940156527003,100,74.4493345908082,15.4020051799468,10.148660229245,100,1,1,1,0.000952078898187376
+resnet50_16_1_rram_mem_0.5_node_8
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+conv4_1_b_part_3_o, 2.304e-05,6.89e-06,2.993e-05,8.9653248e-05,0.0003472883712,9.488719872e-05,2.22388864075808e-05,3.60306688000166e-05,175931,0,0.000590098373127597
+conv4_1_c_part_1_o, 1.4336e-05,1.988e-06,1.6324e-05,5.57842432e-05,0.00021609054208,5.1752042496e-05,1.45823564837702e-05,2.37713408000082e-05,116071,0,0.000361980525059778
+Total,3.7376e-05,8.878e-06,4.6254e-05,0.0001454374912,0.00056337891328,0.000146639241216,3.6821242891351e-05,5.98020096000248e-05,292002,0,0.000952078898187376
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+resnet50_16_1_rram_mem_0.5_node_8, 80.8059843472997,19.1940156527003,100,74.4493345908082,15.4020051799468,10.148660229245,100,1,1,1,0.000952078898187376

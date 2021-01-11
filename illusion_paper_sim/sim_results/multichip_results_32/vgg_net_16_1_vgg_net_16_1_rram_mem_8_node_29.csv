@@ -1,0 +1,16 @@
+vgg_net_16_1_rram_mem_8_node_29
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+fc1_part_26_o, 3.136e-06,1.133e-06,4.269e-06,1.22028032e-05,4.726980608e-05,1.3534027776e-05,4.13050880111221e-06,7.06600960000243e-06,34502,0,8.42031554571146e-05
+fc2_part_1_o, 2.048e-06,4.933e-06,6.981e-06,7.9691776e-06,3.087007744e-05,2.2131892224e-05,3.09158118424529e-05,5.26235648000054e-05,256831,64,0.000144510523906458
+Total,5.184e-06,6.066e-06,1.125e-05,2.01719808e-05,7.813988352e-05,3.566592e-05,3.50463206435651e-05,5.96895744000078e-05,291333,64,0.000228713679363573
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+vgg_net_16_1_rram_mem_8_node_29, 46.08,53.92,100,42.9846892383377,15.5941350334817,41.4211757281805,100,1,1,1,0.000228713679363573
+vgg_net_16_1_rram_mem_8_node_29
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+fc1_part_26_o, 3.136e-06,1.133e-06,4.269e-06,1.22028032e-05,4.726980608e-05,1.3534027776e-05,4.13050880111221e-06,7.06600960000243e-06,34502,0,8.42031554571146e-05
+fc2_part_1_o, 2.048e-06,4.933e-06,6.981e-06,7.9691776e-06,3.087007744e-05,2.2131892224e-05,3.09158118424529e-05,5.26235648000054e-05,256831,64,0.000144510523906458
+Total,5.184e-06,6.066e-06,1.125e-05,2.01719808e-05,7.813988352e-05,3.566592e-05,3.50463206435651e-05,5.96895744000078e-05,291333,64,0.000228713679363573
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+vgg_net_16_1_rram_mem_8_node_29, 46.08,53.92,100,42.9846892383377,15.5941350334817,41.4211757281805,100,1,1,1,0.000228713679363573

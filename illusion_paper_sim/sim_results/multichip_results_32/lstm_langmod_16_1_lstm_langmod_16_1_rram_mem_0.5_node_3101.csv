@@ -1,0 +1,16 @@
+lstm_langmod_16_1_rram_mem_0.5_node_3101
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+act_1_part_2_o, 3.2768e-05,1.336e-06,3.4104e-05,0.0001275068416,0.00049392123904,0.000108120047616,9.72425472729667e-06,1.64034560000159e-05,80095,0,0.000755675838983312
+proj_1_part_2_i, 5.12e-07,6.68e-07,1.18e-06,1.9922944e-06,7.71751936e-06,3.74095872e-06,1.29648896038048e-06,9.69728000000831e-07,4735,0,1.57169894403813e-05
+Total,3.328e-05,2.004e-06,3.5284e-05,0.000129499136,0.0005016387584,0.000111861006336,1.10207436876771e-05,1.73731840000167e-05,84830,0,0.000771392828423694
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+lstm_langmod_16_1_rram_mem_0.5_node_3101, 94.3203718399274,5.67962816007255,100,81.8179624108901,14.5011727117794,3.68086487733048,100,1,1,1,0.000771392828423694
+lstm_langmod_16_1_rram_mem_0.5_node_3101
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+act_1_part_2_o, 3.2768e-05,1.336e-06,3.4104e-05,0.0001275068416,0.00049392123904,0.000108120047616,9.72425472729667e-06,1.64034560000159e-05,80095,0,0.000755675838983312
+proj_1_part_2_i, 5.12e-07,6.68e-07,1.18e-06,1.9922944e-06,7.71751936e-06,3.74095872e-06,1.29648896038048e-06,9.69728000000831e-07,4735,0,1.57169894403813e-05
+Total,3.328e-05,2.004e-06,3.5284e-05,0.000129499136,0.0005016387584,0.000111861006336,1.10207436876771e-05,1.73731840000167e-05,84830,0,0.000771392828423694
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+lstm_langmod_16_1_rram_mem_0.5_node_3101, 94.3203718399274,5.67962816007255,100,81.8179624108901,14.5011727117794,3.68086487733048,100,1,1,1,0.000771392828423694

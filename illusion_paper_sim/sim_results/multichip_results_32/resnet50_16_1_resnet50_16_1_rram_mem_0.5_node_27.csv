@@ -1,0 +1,16 @@
+resnet50_16_1_rram_mem_0.5_node_27
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+conv4_6_a_part_2_i, 2.1504e-05,3.139e-06,2.4643e-05,8.36763648e-05,0.00032413581312,7.8125801472e-05,2.245640448572e-05,3.72316160000125e-05,181795,0,0.000545625999877733
+conv4_6_b_part_1_o, 1.152e-05,5.484e-06,1.7004e-05,4.4826624e-05,0.0001736441856,5.3907849216e-05,1.439480064463e-05,2.27481600000101e-05,111075,0,0.00030952161946064
+Total,3.3024e-05,8.623e-06,4.1647e-05,0.0001285029888,0.00049777999872,0.000132033650688,3.685120513035e-05,5.99797760000226e-05,292870,0,0.000855147619338373
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+resnet50_16_1_rram_mem_0.5_node_27, 79.2950272528633,20.7049727471366,100,73.2368275789103,15.4398664864616,11.3233059346281,100,1,1,1,0.000855147619338373
+resnet50_16_1_rram_mem_0.5_node_27
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+conv4_6_a_part_2_i, 2.1504e-05,3.139e-06,2.4643e-05,8.36763648e-05,0.00032413581312,7.8125801472e-05,2.245640448572e-05,3.72316160000125e-05,181795,0,0.000545625999877733
+conv4_6_b_part_1_o, 1.152e-05,5.484e-06,1.7004e-05,4.4826624e-05,0.0001736441856,5.3907849216e-05,1.439480064463e-05,2.27481600000101e-05,111075,0,0.00030952161946064
+Total,3.3024e-05,8.623e-06,4.1647e-05,0.0001285029888,0.00049777999872,0.000132033650688,3.685120513035e-05,5.99797760000226e-05,292870,0,0.000855147619338373
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+resnet50_16_1_rram_mem_0.5_node_27, 79.2950272528633,20.7049727471366,100,73.2368275789103,15.4398664864616,11.3233059346281,100,1,1,1,0.000855147619338373

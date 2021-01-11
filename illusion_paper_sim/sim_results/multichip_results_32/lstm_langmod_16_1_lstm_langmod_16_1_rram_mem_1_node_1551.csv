@@ -1,0 +1,16 @@
+lstm_langmod_16_1_rram_mem_1_node_1551
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+act_1_part_2_o, 3.072e-05,2.586e-06,3.3306e-05,0.000119537664,0.0004630511616,0.000105590145024,1.14984780873897e-05,1.93853440000162e-05,94655,0,0.000719062792711406
+proj_1_part_2_i, 1.024e-06,6.68e-07,1.692e-06,3.9845888e-06,1.543503872e-05,5.364154368e-06,1.5838643204859e-06,1.52023040000106e-06,7423,0,2.7887876608487e-05
+Total,3.1744e-05,3.254e-06,3.4998e-05,0.0001235222528,0.00047848620032,0.000110954299392,1.30823424078756e-05,2.09055744000173e-05,102078,0,0.000746950669319893
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+lstm_langmod_16_1_rram_mem_1_node_1551, 90.7023258471913,9.29767415280873,100,80.5954767626269,14.8543008192261,4.550222418147,100,1,1,1,0.000746950669319893
+lstm_langmod_16_1_rram_mem_1_node_1551
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+act_1_part_2_o, 3.072e-05,2.586e-06,3.3306e-05,0.000119537664,0.0004630511616,0.000105590145024,1.14984780873897e-05,1.93853440000162e-05,94655,0,0.000719062792711406
+proj_1_part_2_i, 1.024e-06,6.68e-07,1.692e-06,3.9845888e-06,1.543503872e-05,5.364154368e-06,1.5838643204859e-06,1.52023040000106e-06,7423,0,2.7887876608487e-05
+Total,3.1744e-05,3.254e-06,3.4998e-05,0.0001235222528,0.00047848620032,0.000110954299392,1.30823424078756e-05,2.09055744000173e-05,102078,0,0.000746950669319893
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+lstm_langmod_16_1_rram_mem_1_node_1551, 90.7023258471913,9.29767415280873,100,80.5954767626269,14.8543008192261,4.550222418147,100,1,1,1,0.000746950669319893

@@ -1,0 +1,16 @@
+resnet50_16_1_rram_mem_0.25_node_35
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+conv4_3_c_part_3_o, 7.168e-06,9.84e-07,8.152e-06,2.78921216e-05,0.00010804527104,2.5844318208e-05,7.060380161881e-06,1.15210240000041e-05,56255,0,0.000180363115009885
+conv4_4_a_part_1_i, 1.024e-05,1.515e-06,1.1755e-05,3.9845888e-05,0.0001543503872,3.726692352e-05,1.10984832027321e-05,1.7893580800006e-05,87371,0,0.000260455262722738
+Total,1.7408e-05,2.499e-06,1.9907e-05,6.77380096e-05,0.00026239565824,6.3111241728e-05,1.81588633646131e-05,2.94146048000101e-05,143626,0,0.000440818377732623
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+resnet50_16_1_rram_mem_0.25_node_35, 87.4466268146883,12.5533731853117,100,74.8910854257173,14.3168354397148,10.7920791345679,100,1,1,1,0.000440818377732623
+resnet50_16_1_rram_mem_0.25_node_35
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+conv4_3_c_part_3_o, 7.168e-06,9.84e-07,8.152e-06,2.78921216e-05,0.00010804527104,2.5844318208e-05,7.060380161881e-06,1.15210240000041e-05,56255,0,0.000180363115009885
+conv4_4_a_part_1_i, 1.024e-05,1.515e-06,1.1755e-05,3.9845888e-05,0.0001543503872,3.726692352e-05,1.10984832027321e-05,1.7893580800006e-05,87371,0,0.000260455262722738
+Total,1.7408e-05,2.499e-06,1.9907e-05,6.77380096e-05,0.00026239565824,6.3111241728e-05,1.81588633646131e-05,2.94146048000101e-05,143626,0,0.000440818377732623
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+resnet50_16_1_rram_mem_0.25_node_35, 87.4466268146883,12.5533731853117,100,74.8910854257173,14.3168354397148,10.7920791345679,100,1,1,1,0.000440818377732623

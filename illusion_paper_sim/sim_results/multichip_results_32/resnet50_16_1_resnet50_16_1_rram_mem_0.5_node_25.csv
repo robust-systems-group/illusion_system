@@ -1,0 +1,16 @@
+resnet50_16_1_rram_mem_0.5_node_25
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+conv4_5_b_part_3_o, 2.304e-05,7.146e-06,3.0186e-05,8.9653248e-05,0.0003472883712,9.5698796544e-05,2.41991910476862e-05,3.93508864000168e-05,192143,0,0.000596190493191703
+conv4_5_c_part_1_o, 1.2288e-05,1.704e-06,1.3992e-05,4.78150656e-05,0.00018522046464,4.4358893568e-05,1.24571878432316e-05,2.03110400000071e-05,99175,0,0.000310162651651239
+Total,3.5328e-05,8.85e-06,4.4178e-05,0.0001374683136,0.00053250883584,0.000140057690112,3.66563788909178e-05,5.96619264000239e-05,291318,0,0.000906353144842942
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+resnet50_16_1_rram_mem_0.5_node_25, 79.9674045905202,20.0325954094798,100,73.9200998255594,15.4528828976778,10.6270172767627,100,1,1,1,0.000906353144842942
+resnet50_16_1_rram_mem_0.5_node_25
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+conv4_5_b_part_3_o, 2.304e-05,7.146e-06,3.0186e-05,8.9653248e-05,0.0003472883712,9.5698796544e-05,2.41991910476862e-05,3.93508864000168e-05,192143,0,0.000596190493191703
+conv4_5_c_part_1_o, 1.2288e-05,1.704e-06,1.3992e-05,4.78150656e-05,0.00018522046464,4.4358893568e-05,1.24571878432316e-05,2.03110400000071e-05,99175,0,0.000310162651651239
+Total,3.5328e-05,8.85e-06,4.4178e-05,0.0001374683136,0.00053250883584,0.000140057690112,3.66563788909178e-05,5.96619264000239e-05,291318,0,0.000906353144842942
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+resnet50_16_1_rram_mem_0.5_node_25, 79.9674045905202,20.0325954094798,100,73.9200998255594,15.4528828976778,10.6270172767627,100,1,1,1,0.000906353144842942

@@ -1,0 +1,16 @@
+resnet50_16_1_rram_mem_0.25_node_61
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+conv4_6_c_part_3_o, 2.048e-06,3.36e-07,2.384e-06,7.9691776e-06,3.087007744e-05,7.558004736e-06,2.20158208056002e-06,3.61000960000122e-06,17627,0,5.22088514565612e-05
+conv5_1_a_part_1_i, 3.712e-06,3.514e-06,7.226e-06,1.44441344e-05,5.595201536e-05,2.2908616704e-05,1.57795942422112e-05,2.50847232000048e-05,122484,0,0.000134169083906216
+Total,5.76e-06,3.85e-06,9.61e-06,2.2413312e-05,8.68220928e-05,3.046662144e-05,1.79811763227712e-05,2.8694732800006e-05,140111,0,0.000186377935362777
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+resnet50_16_1_rram_mem_0.25_node_61, 59.9375650364204,40.0624349635796,100,58.6096227471227,16.3466889901414,25.0436882627358,100,1,1,1,0.000186377935362777
+resnet50_16_1_rram_mem_0.25_node_61
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+conv4_6_c_part_3_o, 2.048e-06,3.36e-07,2.384e-06,7.9691776e-06,3.087007744e-05,7.558004736e-06,2.20158208056002e-06,3.61000960000122e-06,17627,0,5.22088514565612e-05
+conv5_1_a_part_1_i, 3.712e-06,3.514e-06,7.226e-06,1.44441344e-05,5.595201536e-05,2.2908616704e-05,1.57795942422112e-05,2.50847232000048e-05,122484,0,0.000134169083906216
+Total,5.76e-06,3.85e-06,9.61e-06,2.2413312e-05,8.68220928e-05,3.046662144e-05,1.79811763227712e-05,2.8694732800006e-05,140111,0,0.000186377935362777
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+resnet50_16_1_rram_mem_0.25_node_61, 59.9375650364204,40.0624349635796,100,58.6096227471227,16.3466889901414,25.0436882627358,100,1,1,1,0.000186377935362777

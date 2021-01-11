@@ -1,0 +1,16 @@
+resnet50_16_1_rram_mem_0.25_node_117
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+conv5_2_b_part_19_o, 2.896875e-06,7.5755625e-06,1.04724375e-05,1.127232e-05,4.3665408e-05,3.3200810496e-05,1.50972134437159e-05,2.11156992000081e-05,103104,0,0.000124351451139724
+conv5_2_c_part_1_o, 2.048e-06,1.2568e-05,1.4616e-05,7.9691776e-06,3.087007744e-05,4.6337163264e-05,2.12587750455969e-05,9.28931840001223e-06,45358,0,0.000115724511749609
+Total,4.944875e-06,2.01435625e-05,2.50884375e-05,1.92414976e-05,7.453548544e-05,7.953797376e-05,3.63559884893128e-05,3.04050176000203e-05,148462,0,0.000240075962889333
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+resnet50_16_1_rram_mem_0.25_node_117, 19.7097766650474,80.2902233349526,100,39.0613795364545,33.1303362497246,27.808284213821,100,1,1,1,0.000240075962889333
+resnet50_16_1_rram_mem_0.25_node_117
+Layer, Active time, Stalled time, Total time, Compute active energy, Register file energy, Idle Energy, Total Cache Energy, Total Mem Energy, Mem Reads, Mem Writes, Total Energy
+conv5_2_b_part_19_o, 2.896875e-06,7.5755625e-06,1.04724375e-05,1.127232e-05,4.3665408e-05,3.3200810496e-05,1.50972134437159e-05,2.11156992000081e-05,103104,0,0.000124351451139724
+conv5_2_c_part_1_o, 2.048e-06,1.2568e-05,1.4616e-05,7.9691776e-06,3.087007744e-05,4.6337163264e-05,2.12587750455969e-05,9.28931840001223e-06,45358,0,0.000115724511749609
+Total,4.944875e-06,2.01435625e-05,2.50884375e-05,1.92414976e-05,7.453548544e-05,7.953797376e-05,3.63559884893128e-05,3.04050176000203e-05,148462,0,0.000240075962889333
+Percentage & Benefits 
+System, Active time, Stalled time, Total time, Compute active energy (compute + reg file), Idle energy, Mem energy (Cache + Mem), Total energy, Exec. time benefits, Energy benefits, EDP
+resnet50_16_1_rram_mem_0.25_node_117, 19.7097766650474,80.2902233349526,100,39.0613795364545,33.1303362497246,27.808284213821,100,1,1,1,0.000240075962889333
